@@ -1,6 +1,3 @@
-Here is the code for the README file in Markdown format:
-
-```markdown
 # Mohamed Khair - Personal Portfolio
 
 [![Mohamed Khair](https://mohamedkhair.com/assets/images/logo.png)](https://mohamedkhair.com/)
@@ -18,6 +15,16 @@ The live portfolio can be viewed at [mohamedkhair.com](https://mohamedkhair.com/
 - **Skills**: A section highlighting the key programming languages, frameworks, and tools that Mohamed is proficient in.
 - **Experience**: A timeline of Mohamed's professional experience, including roles, responsibilities, and accomplishments.
 - **Contact Form**: A simple and effective way for visitors to get in touch with Mohamed for collaboration, opportunities, or inquiries.
+
+## Getting Started
+
+To run this portfolio locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/mohamedkhair-portfolio.git
+
 
 ## Getting Started
 
