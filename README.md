@@ -69,4 +69,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For more information, visit the live site at [mohamedkhair.com](https://mohamedkhair.com/) or reach out via the contact form on the website.
 ```
 
-You can copy and paste this code into your README.md file in your GitHub repository.
